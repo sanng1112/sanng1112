@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-**sanng1112/sanng1112** is a ✨ _special_ ✨ repository because its `README.md` (this file# Hi there, I'm Anng 👋
+# Hi there, I'm Anng 👋
 ### 🎓 AI Student @ UET-VNU (K69A-AI) | 🔬 Research Assistant @ AIoT Lab (DNU)
 
 - 🔭 **Current Focus:** Computer Vision, Model Optimization, and Edge AI.
@@ -35,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
