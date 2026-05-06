@@ -1,6 +1,6 @@
 
 # Hi there, I'm Anng 👋
-### 🎓 AI Student @ UET-VNU (K69A-AI) | 🔬 Research Assistant @ AIoT Lab (DNU)
+### 🎓 AI Student @ UET-VNU (K69A-AI) | 🔬 Research Assistant @ Young Innovation Research Laboratory on Digital Technology - PTIT
 
 - 🔭 **Current Focus:** Computer Vision, Model Optimization, and Edge AI.
 - ⚡ **Achievement:** Valedictorian of Group A00 Entrance Exam.
